@@ -1,0 +1,122 @@
+[
+    {
+        "cartId": 1,
+        "products": [
+            {
+                "title": "Coke",
+                "description": "soft drink",
+                "code": "asdf1234",
+                "price": 123.45,
+                "stock": 10,
+                "thumbnail": "https://cdn2.iconfinder.com/data/icons/food-desserts-drinks-and-sweets/512/soda-256.png",
+                "timestamp": "",
+                "id": 1
+            },
+            {
+                "title": "Meat",
+                "description": "premium quality meat",
+                "code": "asdf1234",
+                "price": 234.56,
+                "stock": 10,
+                "thumbnail": "https://cdn0.iconfinder.com/data/icons/food-177/64/steak-beef-meat-food-128.png",
+                "timestamp": "",
+                "id": 2
+            }
+        ],
+        "timestamp": "25/05/2022, 19:37:11"
+    },
+    {
+        "cartId": 2,
+        "products": [
+            {
+                "title": "Ice Cream",
+                "description": "home made ice cream",
+                "code": "asdf1234",
+                "price": 345.67,
+                "stock": 10,
+                "thumbnail": "https://cdn3.iconfinder.com/data/icons/food-and-drink-color/64/ice_cream_food_dessert_restaurant_tasty_sweet_cone-128.png",
+                "timestamp": "",
+                "id": 3
+            }
+        ],
+        "timestamp": "25/05/2022, 19:37:11"
+    },
+    {
+        "cartId": 3,
+        "products": [
+            {
+                "title": "Bread",
+                "description": "homemade bread",
+                "code": "asdf1234",
+                "price": 150,
+                "stock": 10,
+                "thumbnail": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C216-128.png",
+                "timestamp": "",
+                "id": 4
+            }
+        ],
+        "timestamp": "25/05/2022, 19:37:11"
+    },
+    {
+        "cartId": 4,
+        "products": [
+            {
+                "title": "Bread",
+                "description": "homemade bread",
+                "code": "asdf1234",
+                "price": 150,
+                "stock": 10,
+                "thumbnail": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C216-128.png",
+                "timestamp": "",
+                "id": 4
+            }
+        ],
+        "timestamp": "25/05/2022, 19:37:11"
+    },
+    {
+        "cartId": 5,
+        "products": [
+            {
+                "title": "Bread",
+                "description": "homemade bread",
+                "code": "asdf1234",
+                "price": 150,
+                "stock": 10,
+                "thumbnail": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C216-128.png",
+                "timestamp": "",
+                "id": 4
+            },
+            {
+                "title": "Ice Cream",
+                "description": "home made ice cream",
+                "code": "asdf1234",
+                "price": 345.67,
+                "stock": 10,
+                "thumbnail": "https://cdn3.iconfinder.com/data/icons/food-and-drink-color/64/ice_cream_food_dessert_restaurant_tasty_sweet_cone-128.png",
+                "timestamp": "",
+                "id": 3
+            },
+            {
+                "title": "Meat",
+                "description": "premium quality meat",
+                "code": "asdf1234",
+                "price": 234.56,
+                "stock": 10,
+                "thumbnail": "https://cdn0.iconfinder.com/data/icons/food-177/64/steak-beef-meat-food-128.png",
+                "timestamp": "",
+                "id": 2
+            },
+            {
+                "title": "Coke",
+                "description": "soft drink",
+                "code": "asdf1234",
+                "price": 123.45,
+                "stock": 10,
+                "thumbnail": "https://cdn2.iconfinder.com/data/icons/food-desserts-drinks-and-sweets/512/soda-256.png",
+                "timestamp": "",
+                "id": 1
+            }
+        ],
+        "timestamp": "25/05/2022, 19:37:11"
+    }
+]
