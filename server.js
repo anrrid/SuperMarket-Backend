@@ -15,9 +15,10 @@ app.use("/static", express.static(__dirname + "/public"));
 app.use(express.urlencoded({ extended: false }));
 app.use(express.json());
 
-app.get("/products", async (req, res) => {
 
-    container.getAll().then(exitoCallback, falloCallback);
+app.get('/products', async (req, res) => {
+    var json = await container.getAll()
+    res.end(json)
 
 });
 
@@ -27,11 +28,3 @@ app.use("/api", routes);
 http.listen(process.env.PORT, () => {
     console.log(`Example app listening on port ${process.env.PORT}!`);
 });
-
-function exitoCallback(resultado) {
-    res.end(resultado[0])
-}
-
-function falloCallback(error) {
-    console.log("Error generando archivo de audio " + error);
-}

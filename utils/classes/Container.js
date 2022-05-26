@@ -7,9 +7,9 @@ class Container {
     async getAll() {
         const data = await fs.promises.readFile(this.path, "utf-8", function (err, data) {
             if (err) throw err;
-            return JSON.parse(data);
+            return data;
         });
-        return JSON.parse(data);
+        return data;
 
     }
 
