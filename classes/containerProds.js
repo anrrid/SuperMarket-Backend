@@ -79,5 +79,5 @@ class Contenedor {
 };
 
 
-const prod = new Contenedor("./db/prodDB.txt")
+const prod = new Contenedor("./db/products.json")
 module.exports = prod;

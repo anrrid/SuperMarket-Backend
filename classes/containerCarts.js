@@ -94,6 +94,6 @@ class Carts {
     }
 }
 
-const carts = new Carts('./db/cartsDB.txt');
+const carts = new Carts('./db/cart.json');
 
 module.exports = carts
